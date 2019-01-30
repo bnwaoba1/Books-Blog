@@ -1,0 +1,443 @@
+html {
+
+}
+
+body {
+	background-color: white;
+	overflow-x: hidden;
+}
+
+footer {
+	overflow: hidden;
+	background-color: #303030;
+	color: white;
+	margin-top: 125px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.container-fluid {
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: 20px;
+}
+
+#welcome {
+	min-height: 400px;
+	padding-top: 120px;
+	padding-bottom: 50px;
+
+}
+
+/*================================================== Book Rows ======================================================*/
+#showcase1 {
+	overflow-y: scroll;
+	/*min-height: 300px;
+	max-height: 300px; */
+	background-color: whitesmoke;
+	height: 300px;
+	max-width: 100%;
+}
+
+#description1 {
+	/*max-height: 220px;*/
+	background-color: whitesmoke;
+	padding-top: 50px;
+	max-width: 100%;
+	margin-top: 100px;
+
+}
+
+#showcase2 {
+	overflow-y: scroll;
+	height: 300px;
+	background-color: whitesmoke;
+	max-width: 100%;
+}
+
+#description2 {
+	background-color: whitesmoke;
+	padding-top: 50px;
+	margin-top: 150px;
+}
+
+#showcase3 {
+	overflow-y: scroll;
+	height: 300px;
+	background-color: whitesmoke;
+	max-width: 100%;
+}
+
+#description3 {
+	/*max-height: 220px;*/
+	background-color: whitesmoke;
+	padding-top: 50px;
+	margin-top: 150px;
+}
+
+#showcase4 {
+	overflow-y: scroll;
+	height: 300px;
+	background-color: whitesmoke;
+	max-width: 100%;
+}
+
+#description4 {
+	/*max-height: 220px;*/
+	background-color: whitesmoke;
+	padding-top: 50px;
+	margin-top: 150px;
+}
+
+#showcase5 {
+	overflow-y: scroll;
+	height: 300px;
+	background-color: whitesmoke;
+	max-width: 100%;
+}
+
+#description5 {
+	/*max-height: 220px;*/
+	background-color: whitesmoke;
+	padding-top: 50px;
+	margin-top: 150px;
+}
+
+#showcase6 {
+	overflow-y: scroll;
+	height: 300px;
+	background-color: whitesmoke;
+	max-width: 100%;
+}
+
+#description6 {
+	/*max-height: 220px;*/
+	background-color: gainsboro;
+	padding-top: 50px;
+	margin-top: 150px;
+}
+
+/*=============================================book container==============================================================*/
+.one{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf1.jpg);
+	background-size: cover;
+	margin: 10px;
+}
+
+.two{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf2.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.three{
+	min-height: 300px;
+	max-width: 200px;	
+	background-image: url(books/cdf3.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.four{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf4.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.five{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf5.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.six{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf6.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.seven{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf7.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.eight{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf8.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.nine{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf9.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.ten{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf10.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.eleven{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf11.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.twelve{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/cdf12.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.one2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar1.jpg);
+	background-size: cover;
+	margin: 10px;
+}
+
+.two2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar2.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.three2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar3.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.four2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar4.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.five2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar5.jpg); 
+	background-size: cover;
+	margin: 10px;2
+}
+
+.six2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar6.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.seven2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar7.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.eight2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar8.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.nine2{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/ar9.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.one3{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/pj1.jpg);
+	background-size: cover;
+	margin: 10px;
+}
+
+.two3{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/pj2.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.three3{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/pj3.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.four3{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/pj4.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.five3{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/pj5.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.one4{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/eg1.jpg);
+	background-size: cover;
+	margin: 10px;
+}
+
+.two4{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/eg2.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.three4{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/eg3.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.four4{
+	min-height: 300px;
+	max-width: 200px;	
+	background-image: url(books/eg4.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.one5{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/tr1.jpg);
+	background-size: cover;
+	margin: 10px;
+}
+
+.two5{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/tr2.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.three5{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/tr3.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.one6{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/mb1.jpg);
+	background-size: cover;
+	margin: 10px;
+}
+
+.two6{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/mb2.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.three6{
+	min-height: 300px;
+	max-width: 200px;	
+	background-image: url(books/mb3.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.four6{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/mb4.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.five6{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/mb5.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+.six6{
+	min-height: 300px;
+	max-width: 200px;
+	background-image: url(books/mb6.jpg); 
+	background-size: cover;
+	margin: 10px;
+}
+
+/*=========================================== Typography ==============================================================*/
+
+h1 {
+	font-family: "Gaugu", cursive;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif, cursive;
+	margin-right: 20%;
+	/*font-size: 25px;*/
+}
